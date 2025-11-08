@@ -1,5 +1,5 @@
 # Project Page
-[https://github.com/MehakB7/task-cli](https://github.com/MehakB7/task-cli)
+[https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
 # Task CLI
 
 Task CLI is a command-line tool built with Node.js for managing your tasks efficiently from the terminal.
